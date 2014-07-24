@@ -11,3 +11,4 @@ You can be nice and give me credit, but you don't have to be. Enjoy!
 Required dependencies:
 - Vault
 - CrackShot
+- TagAPI (soft)
