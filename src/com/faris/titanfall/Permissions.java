@@ -17,7 +17,7 @@ public class Permissions {
     public static void init() {
         if (permissionList == null) permissionList = new ArrayList<>();
         else permissionList.clear();
-		// TODO: Add permissions.
+	// TODO: Add permissions.
     }
 
     private static Permission registerPermission(Permission permission) {
