@@ -3,8 +3,8 @@ version: 1.0.0
 description: Titanfall in Minecraft!
 author: KingFaris10
 main: com.faris.titanfall.Main
-depend: [CrackShot]
-softdepend: [MineEconomy, TagAPI]
+depend: [CrackShot, Vault]
+softdepend: [TagAPI]
 commands:
     titanfall:
       description: Titanfall command.
