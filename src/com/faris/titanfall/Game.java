@@ -124,7 +124,7 @@ public class Game {
                                 }
                             } else {
                                 try {
-                                    // TODO: Increment coins with contriubutionCoins
+                                    // TODO: Increment coins with contributionCoins
                                     Lang.sendMessage(onlinePlayer, Lang.GAME_LOST_REWARD, String.valueOf(contributionCoins));
                                 } catch (Exception ex) {
                                     Main.economyEnabled = false;
@@ -133,7 +133,7 @@ public class Game {
                         }
                     } else {
                         try {
-                            // TODO: Increment coins with contriubutionCoins
+                            // TODO: Increment coins with contributionCoins
                             Lang.sendMessage(onlinePlayer, Lang.GAME_LOST_REWARD, String.valueOf(contributionCoins));
                         } catch (Exception ex) {
                             Main.economyEnabled = false;
